@@ -4,7 +4,7 @@
 // as published by the Free Software Foundation; either version 2
 // of the License, or (at your option) any later version.
 // Set the site ID if required.  This must be done before any database
-// access is attempted.
+// access is attempted. test 1 
 
 if (!empty($_GET['site']))
     $site_id = $_GET['site'];
